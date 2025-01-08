@@ -36,12 +36,12 @@ Please provide answers to these questions using markdown notation and place them
 
 3. Please provide a link to the repository you are using for this class.
 
-https://github.com/leo123jack/CS283
+    Leon Ho llh72: https://github.com/leo123jack/CS283
 
 4. Briefly describe what you want to get out of this class.
 
-A better understanding of how operating systems works.
+    A better understanding of how operating systems works.
 
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
 
-None
+    None
