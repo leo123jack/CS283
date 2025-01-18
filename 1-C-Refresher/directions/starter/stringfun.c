@@ -319,9 +319,9 @@ int main(int argc, char *argv[]){
             break;
         case 'x':
             if (argc != 5) {
-            printf("Error: Invalid number of arguments for -x\n");
-            usage(argv[0]);
-            exit(1);
+                printf("Error: Invalid number of arguments for -x\n");
+                usage(argv[0]);
+                exit(1);
             }
 
             char *search_word = argv[3];
